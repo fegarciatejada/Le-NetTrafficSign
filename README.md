@@ -1,4 +1,4 @@
-# Traffic Sign Classification Using Le-Net Architecture in Keras
+# Traffic Sign Using Le-Net in Keras
 
 ## Project Overview
 
