@@ -1,10 +1,10 @@
 # Traffic Sign Classification Using Le-Net Architecture in Keras
 
-## Step 0: Problem Statement
+## Project Overview
 
 In this project, I aimmed to classify images of traffic signs using a deep learning model. The dataset contains images categorized into 43 different classes of traffic signs. The goal is to train a deep network, specifically using the Le-Net architecture, to accurately classify these images.
 
-### Classes Include:
+### Dataset Summary
 
 - (0, 'Speed limit (20km/h)') 
 - (1, 'Speed limit (30km/h)')
@@ -14,12 +14,12 @@ In this project, I aimmed to classify images of traffic signs using a deep learn
 
 The network architecture is inspired by the Le-Net model presented by Yann LeCun. [Read more about Le-Net](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf).
 
-## Import Libraries
+## Technologies Used
 
 To work with the project, the following Python libraries are used:
 
-- `pickle` for loading and saving data
-- `seaborn` and `matplotlib` for data visualization
-- `pandas` for data manipulation
-- `numpy` for data statistical analysis
+- Pickle: For loading and saving data
+- Seaborn & Matplotlib: For data visualization
+- Pandas: For data manipulation
+- NumPy: For data statistical analysis
 
