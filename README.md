@@ -2,7 +2,7 @@
 
 ## Step 0: Problem Statement
 
-In this project, we aim to classify images of traffic signs using a deep learning model. The dataset contains images categorized into 43 different classes of traffic signs. The goal is to train a deep network, specifically using the Le-Net architecture, to accurately classify these images.
+In this project, I aimmed to classify images of traffic signs using a deep learning model. The dataset contains images categorized into 43 different classes of traffic signs. The goal is to train a deep network, specifically using the Le-Net architecture, to accurately classify these images.
 
 ### Classes Include:
 
@@ -23,10 +23,3 @@ To work with the project, the following Python libraries are used:
 - `pandas` for data manipulation
 - `numpy` for data statistical analysis
 
-```python
-import pickle
-import seaborn as sns
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import random
